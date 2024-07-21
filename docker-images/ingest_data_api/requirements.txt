@@ -1,0 +1,11 @@
+requests
+fastapi
+uvicorn
+azure-storage-blob
+azure-identity
+python-dotenv
+pydantic==1.10.2
+polars
+pandas
+pyspark
+delta-spark
